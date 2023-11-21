@@ -58,7 +58,7 @@ public class BioskopWithScanner12 {
 
                 case 3:
                     System.out.println("Terima kasih!");
-                    System.exit(0);
+                    System.exit(0);//saya mencari google untuk Syntax ini
 
                 default:
                 //Inputan Pemilihan menu tidak sesui
